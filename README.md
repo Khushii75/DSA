@@ -18,11 +18,13 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Khushii75/DSA/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Khushii75/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Khushii75/DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Khushii75/DSA/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/Khushii75/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -36,4 +38,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Khushii75/DSA/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Khushii75/DSA/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
