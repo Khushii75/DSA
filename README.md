@@ -30,6 +30,7 @@
 | [0012-integer-to-roman](https://github.com/Khushii75/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Khushii75/DSA/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Khushii75/DSA/tree/master/0268-missing-number) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushii75/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Khushii75/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Khushii75/DSA/tree/master/0013-roman-to-integer) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushii75/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Khushii75/DSA/tree/master/1929-concatenation-of-array) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushii75/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
