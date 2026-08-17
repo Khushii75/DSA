@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Khushii75/DSA/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Khushii75/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Khushii75/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Khushii75/DSA/tree/master/0268-missing-number) |
 | [0931-minimum-falling-path-sum](https://github.com/Khushii75/DSA/tree/master/0931-minimum-falling-path-sum) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Khushii75/DSA/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Khushii75/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Khushii75/DSA/tree/master/0125-valid-palindrome) |
 ## Database
 |  |
