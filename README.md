@@ -51,6 +51,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Khushii75/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Khushii75/DSA/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Khushii75/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Khushii75/DSA/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Khushii75/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushii75/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -92,4 +93,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Khushii75/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Khushii75/DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Khushii75/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
