@@ -7,12 +7,14 @@
 | [0015-3sum](https://github.com/Khushii75/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Khushii75/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Khushii75/DSA/tree/master/0066-plus-one) |
+| [0198-house-robber](https://github.com/Khushii75/DSA/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/Khushii75/DSA/tree/master/0268-missing-number) |
 | [0931-minimum-falling-path-sum](https://github.com/Khushii75/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1929-concatenation-of-array](https://github.com/Khushii75/DSA/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Khushii75/DSA/tree/master/0198-house-robber) |
 | [0931-minimum-falling-path-sum](https://github.com/Khushii75/DSA/tree/master/0931-minimum-falling-path-sum) |
 ## Matrix
 |  |
