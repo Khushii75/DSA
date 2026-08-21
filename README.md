@@ -27,6 +27,7 @@
 | [0013-roman-to-integer](https://github.com/Khushii75/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Khushii75/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Khushii75/DSA/tree/master/0268-missing-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Khushii75/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,4 +104,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Khushii75/DSA/tree/master/0020-valid-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Khushii75/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
