@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/Khushii75/DSA/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/Khushii75/DSA/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/Khushii75/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Khushii75/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0931-minimum-falling-path-sum](https://github.com/Khushii75/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1929-concatenation-of-array](https://github.com/Khushii75/DSA/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
@@ -35,12 +36,14 @@
 | [0012-integer-to-roman](https://github.com/Khushii75/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Khushii75/DSA/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Khushii75/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Khushii75/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Khushii75/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushii75/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Khushii75/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Khushii75/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -50,6 +53,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Khushii75/DSA/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/Khushii75/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Khushii75/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -65,6 +69,7 @@
 | [0015-3sum](https://github.com/Khushii75/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Khushii75/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Khushii75/DSA/tree/master/0125-valid-palindrome) |
+| [0349-intersection-of-two-arrays](https://github.com/Khushii75/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Database
 |  |
 | ------- |
