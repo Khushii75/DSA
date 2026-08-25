@@ -13,6 +13,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khushii75/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/Khushii75/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1929-concatenation-of-array](https://github.com/Khushii75/DSA/tree/master/1929-concatenation-of-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Khushii75/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khushii75/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Khushii75/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushii75/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Khushii75/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
