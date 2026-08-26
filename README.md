@@ -12,6 +12,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Khushii75/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khushii75/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/Khushii75/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Khushii75/DSA/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1929-concatenation-of-array](https://github.com/Khushii75/DSA/tree/master/1929-concatenation-of-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Khushii75/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
@@ -30,6 +31,7 @@
 | [0013-roman-to-integer](https://github.com/Khushii75/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Khushii75/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Khushii75/DSA/tree/master/0268-missing-number) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Khushii75/DSA/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Khushii75/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Khushii75/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
@@ -96,6 +98,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Khushii75/DSA/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1929-concatenation-of-array](https://github.com/Khushii75/DSA/tree/master/1929-concatenation-of-array) |
 ## Sliding Window
 |  |
