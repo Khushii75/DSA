@@ -79,6 +79,7 @@
 | [0125-valid-palindrome](https://github.com/Khushii75/DSA/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Khushii75/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khushii75/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Khushii75/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Database
 |  |
 | ------- |
@@ -124,4 +125,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Khushii75/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Khushii75/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
