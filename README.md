@@ -15,6 +15,7 @@
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Khushii75/DSA/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1929-concatenation-of-array](https://github.com/Khushii75/DSA/tree/master/1929-concatenation-of-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Khushii75/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Khushii75/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Khushii75/DSA/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Khushii75/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Khushii75/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Khushii75/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
