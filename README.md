@@ -32,6 +32,7 @@
 | [0013-roman-to-integer](https://github.com/Khushii75/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Khushii75/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Khushii75/DSA/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Khushii75/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Khushii75/DSA/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Khushii75/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Khushii75/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Khushii75/DSA/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Khushii75/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
