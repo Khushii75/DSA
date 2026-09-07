@@ -1,0 +1,27 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+bool isAgreed(int a, int b, int c){
+    int total = a + b + c;
+    return total >= 2;
+}
+
+int main(){
+    int n;
+    cin >> n;
+    
+    int count = 0;
+    
+    for(int i = 1; i <= n; i++){
+        int a, b, c;
+        cin >> a >> b >> c;
+        
+        if(isAgreed(a, b, c)){
+            count++;
+        }
+    }
+    
+    cout << count << endl;
+    
+    return 0;
+}
