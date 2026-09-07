@@ -1,0 +1,16 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+void staircase(int n) {
+    for(int i = 1; i <= n; i++){
+        string row = string(n - i, ' ') + string(i, '#');
+        cout << row << endl;
+    }
+}
+
+int main(){
+    int n;
+    cin >> n;
+    staircase(n);
+    return 0;
+}
