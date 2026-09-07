@@ -162,12 +162,13 @@
 
 ## 📊 Progress
 
-**Total Solved: 9**
+**Total Solved: 10**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 3 |
 | Mathematics | 2 |
+| Brute-Force | 1 |
 | Implementation | 1 |
 | Other | 3 |
 
@@ -189,6 +190,11 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22FCTRL%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Factorial](https://www.codechef.com/problems/FCTRL)
+
+## Brute-Force
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codeforces%22%2C%22problemIdentifier%22%3A%22236A%22%2C%22topic%22%3A%22Brute-Force%22%7D -->
+- [Boy or Girl](https://codeforces.com/contest/236/problem/A)
 
 ## Implementation
 
