@@ -162,11 +162,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 6**
+**Total Solved: 7**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 3 |
+| Mathematics | 1 |
 | Implementation | 1 |
 | Other | 2 |
 
@@ -180,6 +181,11 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220136%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Single Number](https://leetcode.com/problems/single-number/)
+
+## Mathematics
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220070%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
 ## Implementation
 
