@@ -162,14 +162,14 @@
 
 ## 📊 Progress
 
-**Total Solved: 8**
+**Total Solved: 9**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 3 |
 | Mathematics | 1 |
 | Implementation | 1 |
-| Other | 3 |
+| Other | 4 |
 
 ## Array
 
@@ -202,5 +202,8 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22FLOW004%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Welcome to the CodeChef AI Tutor](https://www.codechef.com/problems/FLOW004)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22FCTRL%22%2C%22topic%22%3A%22Other%22%7D -->
+- [Welcome to the CodeChef AI Tutor](https://www.codechef.com/problems/FCTRL)
 
 <!-- DSA-GRINDHUB:END -->
