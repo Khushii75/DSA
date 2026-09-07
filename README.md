@@ -167,9 +167,9 @@
 | Topic | Solved |
 | --- | ---: |
 | Array | 3 |
-| Mathematics | 1 |
+| Mathematics | 2 |
 | Implementation | 1 |
-| Other | 4 |
+| Other | 3 |
 
 ## Array
 
@@ -187,6 +187,9 @@
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220070%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22FCTRL%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Factorial](https://www.codechef.com/problems/FCTRL)
+
 ## Implementation
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codeforces%22%2C%22problemIdentifier%22%3A%22263A%22%2C%22topic%22%3A%22Implementation%22%7D -->
@@ -202,8 +205,5 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22FLOW004%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Welcome to the CodeChef AI Tutor](https://www.codechef.com/problems/FLOW004)
-
-<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22FCTRL%22%2C%22topic%22%3A%22Other%22%7D -->
-- [Welcome to the CodeChef AI Tutor](https://www.codechef.com/problems/FCTRL)
 
 <!-- DSA-GRINDHUB:END -->
