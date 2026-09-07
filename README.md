@@ -157,3 +157,20 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Khushii75/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
+
+<!-- DSA-GRINDHUB:START -->
+
+## 📊 Progress
+
+**Total Solved: 1**
+
+| Topic | Solved |
+| --- | ---: |
+| Array | 1 |
+
+## Array
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220136%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Single Number](https://leetcode.com/problems/single-number/)
+
+<!-- DSA-GRINDHUB:END -->
