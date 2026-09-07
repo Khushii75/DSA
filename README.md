@@ -162,12 +162,13 @@
 
 ## 📊 Progress
 
-**Total Solved: 3**
+**Total Solved: 4**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 2 |
 | Implementation | 1 |
+| Other | 1 |
 
 ## Array
 
@@ -181,5 +182,10 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codeforces%22%2C%22problemIdentifier%22%3A%22263A%22%2C%22topic%22%3A%22Implementation%22%7D -->
 - [Beautiful Matrix](https://codeforces.com/contest/263/problem/A)
+
+## Other
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22hackerrank%22%2C%22problemIdentifier%22%3A%228662%22%2C%22topic%22%3A%22Other%22%7D -->
+- [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
 
 <!-- DSA-GRINDHUB:END -->
