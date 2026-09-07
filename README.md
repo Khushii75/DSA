@@ -162,11 +162,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 2**
+**Total Solved: 3**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 2 |
+| Implementation | 1 |
 
 ## Array
 
@@ -175,5 +176,10 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220136%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Single Number](https://leetcode.com/problems/single-number/)
+
+## Implementation
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codeforces%22%2C%22problemIdentifier%22%3A%22263A%22%2C%22topic%22%3A%22Implementation%22%7D -->
+- [Beautiful Matrix](https://codeforces.com/contest/263/problem/A)
 
 <!-- DSA-GRINDHUB:END -->
