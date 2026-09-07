@@ -162,11 +162,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 10**
+**Total Solved: 11**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 3 |
+| Tree | 1 |
 | Mathematics | 2 |
 | Brute-Force | 1 |
 | Implementation | 1 |
@@ -182,6 +183,11 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220136%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Single Number](https://leetcode.com/problems/single-number/)
+
+## Tree
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220226%22%2C%22topic%22%3A%22Tree%22%7D -->
+- [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 
 ## Mathematics
 
