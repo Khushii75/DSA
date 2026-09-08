@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 17**
+**Total Solved: 18**
 
 | Topic | Solved |
 | --- | ---: |
@@ -171,7 +171,7 @@
 | Mathematics | 4 |
 | Brute-Force | 1 |
 | Implementation | 2 |
-| Other | 4 |
+| Other | 5 |
 
 ## Array
 
@@ -223,6 +223,9 @@
 - [Bit++](https://codeforces.com/contest/282/problem/A)
 
 ## Other
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22BIRYANI%22%2C%22topic%22%3A%22Other%22%7D -->
+- [Biryani classes](https://www.codechef.com/problems/BIRYANI)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22hackerrank%22%2C%22problemIdentifier%22%3A%228662%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
