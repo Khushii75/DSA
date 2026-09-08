@@ -162,11 +162,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 11**
+**Total Solved: 12**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 3 |
+| Array | 4 |
 | Tree | 1 |
 | Mathematics | 2 |
 | Brute-Force | 1 |
@@ -174,6 +174,9 @@
 | Other | 3 |
 
 ## Array
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221848%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22reverse-an-array%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Reverse Array](https://www.geeksforgeeks.org/problems/reverse-an-array/1)
