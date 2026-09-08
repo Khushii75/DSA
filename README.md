@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 14**
+**Total Solved: 15**
 
 | Topic | Solved |
 | --- | ---: |
@@ -171,7 +171,7 @@
 | Mathematics | 4 |
 | Brute-Force | 1 |
 | Implementation | 1 |
-| Other | 3 |
+| Other | 4 |
 
 ## Array
 
@@ -220,6 +220,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22hackerrank%22%2C%22problemIdentifier%22%3A%228662%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22START01%22%2C%22topic%22%3A%22Other%22%7D -->
+- [Number Mirror](https://www.codechef.com/problems/START01)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22hackerrank%22%2C%22problemIdentifier%22%3A%228649%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)
