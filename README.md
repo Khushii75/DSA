@@ -162,13 +162,13 @@
 
 ## 📊 Progress
 
-**Total Solved: 13**
+**Total Solved: 14**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 4 |
 | Tree | 1 |
-| Mathematics | 3 |
+| Mathematics | 4 |
 | Brute-Force | 1 |
 | Implementation | 1 |
 | Other | 3 |
@@ -202,6 +202,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22FCTRL%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Factorial](https://www.codechef.com/problems/FCTRL)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223618%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Odd or Even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1)
 
 ## Brute-Force
 
