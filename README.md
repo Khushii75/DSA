@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 20**
+**Total Solved: 21**
 
 | Topic | Solved |
 | --- | ---: |
@@ -171,7 +171,7 @@
 | Mathematics | 5 |
 | Brute-Force | 1 |
 | Implementation | 2 |
-| Other | 5 |
+| Other | 6 |
 
 ## Array
 
@@ -238,6 +238,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22START01%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Number Mirror](https://www.codechef.com/problems/START01)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22LCPPAS10%22%2C%22topic%22%3A%22Other%22%7D -->
+- [Output & Basic math operators](https://www.codechef.com/problems/LCPPAS10)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22hackerrank%22%2C%22problemIdentifier%22%3A%228649%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)
