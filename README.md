@@ -162,13 +162,13 @@
 
 ## 📊 Progress
 
-**Total Solved: 12**
+**Total Solved: 13**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 4 |
 | Tree | 1 |
-| Mathematics | 2 |
+| Mathematics | 3 |
 | Brute-Force | 1 |
 | Implementation | 1 |
 | Other | 3 |
@@ -196,6 +196,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220070%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223870%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22FCTRL%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Factorial](https://www.codechef.com/problems/FCTRL)
