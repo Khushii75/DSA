@@ -162,13 +162,13 @@
 
 ## 📊 Progress
 
-**Total Solved: 19**
+**Total Solved: 20**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 6 |
 | Tree | 1 |
-| Mathematics | 4 |
+| Mathematics | 5 |
 | Brute-Force | 1 |
 | Implementation | 2 |
 | Other | 5 |
@@ -211,6 +211,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223618%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Odd or Even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222452%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Today's GFG POTD Solution ✅ in O(1)](https://www.geeksforgeeks.org/problems/reverse-coding2452/1)
 
 ## Brute-Force
 
