@@ -162,13 +162,14 @@
 
 ## 📊 Progress
 
-**Total Solved: 23**
+**Total Solved: 24**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 6 |
 | Tree | 1 |
 | Mathematics | 7 |
+| Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
 | Implementation | 2 |
 | Other | 6 |
@@ -220,6 +221,11 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222452%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Today's GFG POTD Solution ✅ in O(1)](https://www.geeksforgeeks.org/problems/reverse-coding2452/1)
+
+## Divide-and-Conquer
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%220527%22%2C%22topic%22%3A%22Divide-and-Conquer%22%7D -->
+- [Median of an Array](https://www.geeksforgeeks.org/problems/find-the-median0527/1)
 
 ## Brute-Force
 
