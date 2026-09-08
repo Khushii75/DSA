@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 16**
+**Total Solved: 17**
 
 | Topic | Solved |
 | --- | ---: |
@@ -170,7 +170,7 @@
 | Tree | 1 |
 | Mathematics | 4 |
 | Brute-Force | 1 |
-| Implementation | 1 |
+| Implementation | 2 |
 | Other | 4 |
 
 ## Array
@@ -218,6 +218,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codeforces%22%2C%22problemIdentifier%22%3A%22263A%22%2C%22topic%22%3A%22Implementation%22%7D -->
 - [Beautiful Matrix](https://codeforces.com/contest/263/problem/A)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codeforces%22%2C%22problemIdentifier%22%3A%22282A%22%2C%22topic%22%3A%22Implementation%22%7D -->
+- [Bit++](https://codeforces.com/contest/282/problem/A)
 
 ## Other
 
