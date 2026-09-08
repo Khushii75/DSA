@@ -1,0 +1,7 @@
+n = int(input())
+
+# code here
+def Nsum(n):
+    sum = n*(n+1)//2
+    return sum
+print(Nsum(n))
