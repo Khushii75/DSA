@@ -162,11 +162,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 15**
+**Total Solved: 16**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 4 |
+| Array | 5 |
 | Tree | 1 |
 | Mathematics | 4 |
 | Brute-Force | 1 |
@@ -183,6 +183,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223735%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Second Largest](https://www.geeksforgeeks.org/problems/second-largest3735/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22hackerrank%22%2C%22problemIdentifier%22%3A%229828%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220136%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Single Number](https://leetcode.com/problems/single-number/)
