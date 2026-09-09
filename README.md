@@ -162,11 +162,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 32**
+**Total Solved: 33**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 6 |
+| String | 1 |
 | Tree | 1 |
 | Mathematics | 15 |
 | Divide-and-Conquer | 1 |
@@ -193,6 +194,11 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220136%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Single Number](https://leetcode.com/problems/single-number/)
+
+## String
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222751%22%2C%22topic%22%3A%22String%22%7D -->
+- [Palindrome Digit Sum](https://www.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not2751/1)
 
 ## Tree
 
