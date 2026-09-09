@@ -162,13 +162,13 @@
 
 ## 📊 Progress
 
-**Total Solved: 28**
+**Total Solved: 29**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 6 |
 | Tree | 1 |
-| Mathematics | 11 |
+| Mathematics | 12 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
 | Implementation | 2 |
@@ -203,6 +203,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220070%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225728%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Closest to n and Divisible by m](https://www.geeksforgeeks.org/problems/closest-number5728/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223870%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/)
