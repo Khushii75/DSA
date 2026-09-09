@@ -1,0 +1,9 @@
+class Solution:
+    def isDigitSumPalindrome(self, n):
+        #code here
+        n= str(n)
+        sum=0
+        for i in n:
+            sum += int(i)
+        sum = str(sum)
+        return sum == sum[::-1]
