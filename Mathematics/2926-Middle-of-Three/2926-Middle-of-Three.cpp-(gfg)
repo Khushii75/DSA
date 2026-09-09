@@ -1,0 +1,9 @@
+class Solution:
+    def middle(self, a, b, c):
+        #code here
+        if (a>=b and b>=c) or (a<=b and b<=c):
+            return b
+        elif (b>=a and a>=c) or (b<=a and a<=c):
+            return a
+        else:
+            return c
