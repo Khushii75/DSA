@@ -162,13 +162,13 @@
 
 ## 📊 Progress
 
-**Total Solved: 26**
+**Total Solved: 27**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 6 |
 | Tree | 1 |
-| Mathematics | 9 |
+| Mathematics | 10 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
 | Implementation | 2 |
@@ -209,6 +209,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223871%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223649%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Count Perfect Squares](https://www.geeksforgeeks.org/problems/count-squares3649/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22FCTRL%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Factorial](https://www.codechef.com/problems/FCTRL)
