@@ -1,0 +1,15 @@
+class Solution:
+    def closestNumber(self, n, m):
+        # code here 
+        div= n//m
+        l = div*m
+        u = (div + 1)*m
+        if abs(n-l) < abs(n-u):
+            return l
+        elif abs(n-l)> abs(n-u):
+            return u
+        else:
+            if abs(l)>abs(u):
+                return l
+            else:
+                return u
