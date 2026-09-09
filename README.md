@@ -162,13 +162,13 @@
 
 ## 📊 Progress
 
-**Total Solved: 31**
+**Total Solved: 32**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 6 |
 | Tree | 1 |
-| Mathematics | 14 |
+| Mathematics | 15 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
 | Implementation | 2 |
@@ -200,6 +200,9 @@
 - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 
 ## Mathematics
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225442%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Check for Power](https://www.geeksforgeeks.org/problems/check-if-a-number-is-power-of-another-number5442/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220070%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
