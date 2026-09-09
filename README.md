@@ -162,13 +162,13 @@
 
 ## 📊 Progress
 
-**Total Solved: 30**
+**Total Solved: 31**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 6 |
 | Tree | 1 |
-| Mathematics | 13 |
+| Mathematics | 14 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
 | Implementation | 2 |
@@ -227,6 +227,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222520%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Greatest of three numbers](https://www.geeksforgeeks.org/problems/greatest-of-three-numbers2520/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222926%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Middle of Three](https://www.geeksforgeeks.org/problems/middle-of-three2926/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223618%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Odd or Even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1)
