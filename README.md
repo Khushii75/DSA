@@ -162,14 +162,14 @@
 
 ## 📊 Progress
 
-**Total Solved: 33**
+**Total Solved: 34**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 6 |
 | String | 1 |
 | Tree | 1 |
-| Mathematics | 15 |
+| Mathematics | 16 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
 | Implementation | 2 |
@@ -248,6 +248,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225843%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Sum of Natural Number Cubes](https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223857%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Sum Palindrome](https://www.geeksforgeeks.org/problems/sum-palindrome3857/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222452%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Today's GFG POTD Solution ✅ in O(1)](https://www.geeksforgeeks.org/problems/reverse-coding2452/1)
