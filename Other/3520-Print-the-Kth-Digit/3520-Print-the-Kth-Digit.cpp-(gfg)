@@ -1,0 +1,9 @@
+class Solution:
+    def kthDigit(self, a, b, k):
+        # code here
+        x= pow(a,b)
+        
+        return str(x)[-k]
+            
+            
+            
