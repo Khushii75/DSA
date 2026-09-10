@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 35**
+**Total Solved: 36**
 
 | Topic | Solved |
 | --- | ---: |
@@ -173,7 +173,7 @@
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
 | Implementation | 2 |
-| Other | 7 |
+| Other | 8 |
 
 ## Array
 
@@ -289,6 +289,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22LCPPAS10%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Output & Basic math operators](https://www.codechef.com/problems/LCPPAS10)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223520%22%2C%22topic%22%3A%22Other%22%7D -->
+- [Print the Kth Digit](https://www.geeksforgeeks.org/problems/print-the-kth-digit3520/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22hackerrank%22%2C%22problemIdentifier%22%3A%228649%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)
