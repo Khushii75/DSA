@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 40**
+**Total Solved: 41**
 
 | Topic | Solved |
 | --- | ---: |
@@ -171,6 +171,7 @@
 | Heap | 2 |
 | Tree | 1 |
 | Mathematics | 16 |
+| Recursion | 1 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
 | Implementation | 2 |
@@ -269,6 +270,11 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222452%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Today's GFG POTD Solution ✅ in O(1)](https://www.geeksforgeeks.org/problems/reverse-coding2452/1)
+
+## Recursion
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223621%22%2C%22topic%22%3A%22Recursion%22%7D -->
+- [1 to n Without Loops](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1)
 
 ## Divide-and-Conquer
 
