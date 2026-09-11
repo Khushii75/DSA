@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 37**
+**Total Solved: 38**
 
 | Topic | Solved |
 | --- | ---: |
@@ -174,7 +174,7 @@
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
 | Implementation | 2 |
-| Other | 8 |
+| Other | 9 |
 
 ## Array
 
@@ -289,6 +289,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22hackerrank%22%2C%22problemIdentifier%22%3A%228662%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22implementation-of-priority-queue-using-binary-heap%22%2C%22topic%22%3A%22Other%22%7D -->
+- [Java Very Very Easy Solution](https://www.geeksforgeeks.org/problems/implementation-of-priority-queue-using-binary-heap/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22START01%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Number Mirror](https://www.codechef.com/problems/START01)
