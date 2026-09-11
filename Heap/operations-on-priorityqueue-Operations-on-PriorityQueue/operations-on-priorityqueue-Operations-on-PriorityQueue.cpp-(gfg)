@@ -1,0 +1,21 @@
+import heapq 
+class Geeks:
+   
+    # Function to insert element into the priority queue
+    def insert(self, q, k):
+        # code here
+        
+        heapq.heappush(q,-k)  #max heapq
+    # If k is in q return true else return false
+    def find(self, q, k):
+        # code here
+        if -k in q:
+            return True
+        else:
+            return False
+    
+    # delete the max element from priority queue
+    def delete(self, q):
+        # code here
+        return -heapq.heappop(q)
+        
