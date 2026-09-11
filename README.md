@@ -162,11 +162,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 38**
+**Total Solved: 39**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 6 |
+| Array | 7 |
 | String | 1 |
 | Heap | 1 |
 | Tree | 1 |
@@ -177,6 +177,9 @@
 | Other | 9 |
 
 ## Array
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220215%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221848%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/)
