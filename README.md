@@ -168,13 +168,13 @@
 | --- | ---: |
 | Array | 8 |
 | String | 1 |
-| Heap | 1 |
+| Heap | 2 |
 | Tree | 1 |
 | Mathematics | 16 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
 | Implementation | 2 |
-| Other | 9 |
+| Other | 8 |
 
 ## Array
 
@@ -208,6 +208,9 @@
 - [Palindrome Digit Sum](https://www.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not2751/1)
 
 ## Heap
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22implementation-of-priority-queue-using-binary-heap%22%2C%22topic%22%3A%22Heap%22%7D -->
+- [Implementation of Priority Queue using Binary Heap](https://www.geeksforgeeks.org/problems/implementation-of-priority-queue-using-binary-heap/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22operations-on-priorityqueue%22%2C%22topic%22%3A%22Heap%22%7D -->
 - [Operations on PriorityQueue](https://www.geeksforgeeks.org/problems/operations-on-priorityqueue/1)
@@ -295,9 +298,6 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22hackerrank%22%2C%22problemIdentifier%22%3A%228662%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
-
-<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22implementation-of-priority-queue-using-binary-heap%22%2C%22topic%22%3A%22Other%22%7D -->
-- [Java Very Very Easy Solution](https://www.geeksforgeeks.org/problems/implementation-of-priority-queue-using-binary-heap/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22START01%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Number Mirror](https://www.codechef.com/problems/START01)
