@@ -162,11 +162,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 56**
+**Total Solved: 57**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 8 |
+| Array | 9 |
 | String | 3 |
 | Linked-List | 2 |
 | Heap | 2 |
@@ -203,6 +203,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220136%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Single Number](https://leetcode.com/problems/single-number/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223903%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/)
 
 ## String
 
