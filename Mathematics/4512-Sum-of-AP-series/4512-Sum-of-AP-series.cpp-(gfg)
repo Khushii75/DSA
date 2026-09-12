@@ -1,0 +1,5 @@
+class Solution:
+    def sumOfAP(self, n, a, d):
+        # code here
+        s= n/2*(2*a+(n-1)*d)
+        return int(s)
