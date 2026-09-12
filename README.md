@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 66**
+**Total Solved: 67**
 
 | Topic | Solved |
 | --- | ---: |
@@ -177,7 +177,7 @@
 | Divide-and-Conquer | 2 |
 | Brute-Force | 1 |
 | Implementation | 4 |
-| Other | 11 |
+| Other | 12 |
 
 ## Array
 
@@ -388,6 +388,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223520%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Print the Kth Digit](https://www.geeksforgeeks.org/problems/print-the-kth-digit3520/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22HORSES%22%2C%22topic%22%3A%22Other%22%7D -->
+- [Racing Horses](https://www.codechef.com/problems/HORSES)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22FLOW017%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Second Largest](https://www.codechef.com/problems/FLOW017)
