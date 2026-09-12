@@ -4,135 +4,35 @@
 
 ## Problem
 
-Problem List
-Problem List
+Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
 
-Debugging...
+Example 1:
 
-01:48:04
+Input: x = 2.00000, n = 10
+Output: 1024.00000
 
-0xkhushiAccess all features with our Premium subscription!
+Example 2:
 
-My Lists
+Input: x = 2.10000, n = 3
+Output: 9.26100
 
-Notebook
+Example 3:
 
-Progress
+Input: x = 2.00000, n = -2
+Output: 0.25000
+Explanation: 2-2 = 1/22 = 1/4 = 0.25
 
-Points
+Constraints:
 
-Try New Features
+-100.0 < x < 100.0
 
-Orders
+-231 <= n <= 231-1
 
-My Playgrounds
+n is an integer.
 
-Settings
+Either x is not zero or n > 0.
 
-Appearance
-
-Appearance
-
-System Default
-
-Light
-
-Dark
-
-Sign Out
-
-System Default
-
-Light
-
-Dark
-
-Premium
-
-Description
-Description
-
-Accepted
-Accepted
-
-Editorial
-Editorial
-
-Solutions
-Solutions
-
-Submissions
-Submissions
-
-Code
-Code
-
-Testcase
-Testcase
-
-Test Result
-Test Result
-
-All Submissions
-
-Accepted307 / 307 testcases passed
-
-0xkhushi
-submitted at Sep 12, 2026 19:13
-
-Runtime
-
-2ms
-Beats18.04%
-
-Memory
-
-19.37MB
-Beats87.09%
-
-Code
-Python3
-
-1class Solution:
-2    def myPow(self, x: float, n: int) -> float:
-3        return x ** n
-
-0/5
-
-Runtime
-Memory
-Notes
-
-1
-Accepted
-a few seconds ago
-
-Python3
-
-2 ms
-
-19.4 MB
-
-Notes
-
-1
-
-2
-
-3
-
-class Solution:
-def myPow(self, x: float, n: int) -> float:
-return x ** n
-
-Restored from localUpgrade to Cloud Saving
-Ln 1, Col 1
-
-You must run your code first
-
-FindHeaderBarSize
-FindTabBarSize
-FindBorderBarSize
+-104 <= xn <= 104
 
 ## Problem Link
 
