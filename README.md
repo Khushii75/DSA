@@ -162,12 +162,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 50**
+**Total Solved: 51**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 8 |
-| String | 1 |
+| String | 2 |
 | Linked-List | 1 |
 | Heap | 2 |
 | Tree | 1 |
@@ -205,6 +205,9 @@
 - [Single Number](https://leetcode.com/problems/single-number/)
 
 ## String
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220022%22%2C%22topic%22%3A%22String%22%7D -->
+- [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222751%22%2C%22topic%22%3A%22String%22%7D -->
 - [Palindrome Digit Sum](https://www.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not2751/1)
