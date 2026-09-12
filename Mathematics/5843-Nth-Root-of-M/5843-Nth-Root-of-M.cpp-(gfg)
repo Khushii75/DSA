@@ -1,0 +1,16 @@
+# class Solution:
+#     def nthRoot(self, n, m):
+#       # code here
+#       x = round(m ** (1/n))
+
+#       if x ** n == m:
+#           return x
+#       return -1
+class Solution:
+    def nthRoot(self, n, m):
+        x = m ** (1/n)
+        if x == int(x):
+            return int(x)
+        else:
+            return -1
+       
