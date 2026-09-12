@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 52**
+**Total Solved: 53**
 
 | Topic | Solved |
 | --- | ---: |
@@ -176,7 +176,7 @@
 | Divide-and-Conquer | 2 |
 | Brute-Force | 1 |
 | Implementation | 2 |
-| Other | 8 |
+| Other | 9 |
 
 ## Array
 
@@ -352,6 +352,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22hackerrank%22%2C%22problemIdentifier%22%3A%228649%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221587115621%22%2C%22topic%22%3A%22Other%22%7D -->
+- [Tower Of Hanoi](https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22FLOW004%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Welcome to the CodeChef AI Tutor](https://www.codechef.com/problems/FLOW004)
