@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 58**
+**Total Solved: 59**
 
 | Topic | Solved |
 | --- | ---: |
@@ -175,7 +175,7 @@
 | Recursion | 1 |
 | Divide-and-Conquer | 2 |
 | Brute-Force | 1 |
-| Implementation | 2 |
+| Implementation | 3 |
 | Other | 10 |
 
 ## Array
@@ -341,6 +341,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codeforces%22%2C%22problemIdentifier%22%3A%22282A%22%2C%22topic%22%3A%22Implementation%22%7D -->
 - [Bit++](https://codeforces.com/contest/282/problem/A)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codeforces%22%2C%22problemIdentifier%22%3A%22158A%22%2C%22topic%22%3A%22Implementation%22%7D -->
+- [Next Round](https://codeforces.com/contest/158/problem/A)
 
 ## Other
 
