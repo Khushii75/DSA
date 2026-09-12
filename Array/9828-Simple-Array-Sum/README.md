@@ -43,74 +43,26 @@ Change Theme
 
 LanguagePython 3
 
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-10
-
-11
-
-12
-
-13
-
-14
-
-15
-
-16
-
-17
-
-18
-
-19
-
-20
-
-21
-
-22
-
 1
 
 2
 
 3
 
-import os
-import random
-import re
-import sys
+4
 
-#
-# Complete the 'simpleArraySum' function below.
-#
-# The function is expected to return an INTEGER.
-# The function accepts INTEGER_ARRAY ar as parameter.
-#
+5
+
+6
 
 def simpleArraySum(ar):
 return sum(ar)
 
-n = int(input().strip())
-ar = list(map(int, input().rstrip().split()))
+n = int(input())
+ar = list(map(int, input().split()))
 print(simpleArraySum(ar))
 
-#!/bin/python3
-
-import math
-
-Line: 21 Col: 26
+Line: 6 Col: 26
 
 Test against custom input
 
@@ -130,7 +82,7 @@ Max Score
 10
 
 Submitted By
-3019711
+3021035
 
 Need Help?
 View discussions
