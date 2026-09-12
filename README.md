@@ -162,11 +162,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 57**
+**Total Solved: 58**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 9 |
+| Array | 10 |
 | String | 3 |
 | Linked-List | 2 |
 | Heap | 2 |
@@ -194,6 +194,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22reverse-an-array%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Reverse Array](https://www.geeksforgeeks.org/problems/reverse-an-array/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220035%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223735%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Second Largest](https://www.geeksforgeeks.org/problems/second-largest3735/1)
