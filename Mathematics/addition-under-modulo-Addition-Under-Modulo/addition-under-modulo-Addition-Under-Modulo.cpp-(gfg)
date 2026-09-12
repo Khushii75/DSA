@@ -1,0 +1,6 @@
+class Solution:
+    def sumUnderModulo(self, a, b, M):
+        # code here
+        sum= a+b
+        res= sum%M
+        return res
