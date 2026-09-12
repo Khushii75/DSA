@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 60**
+**Total Solved: 61**
 
 | Topic | Solved |
 | --- | ---: |
@@ -176,7 +176,7 @@
 | Divide-and-Conquer | 2 |
 | Brute-Force | 1 |
 | Implementation | 4 |
-| Other | 10 |
+| Other | 11 |
 
 ## Array
 
@@ -349,6 +349,9 @@
 - [Next Round](https://codeforces.com/contest/158/problem/A)
 
 ## Other
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22HS08TEST%22%2C%22topic%22%3A%22Other%22%7D -->
+- [ATM](https://www.codechef.com/problems/HS08TEST)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22BIRYANI%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Biryani classes](https://www.codechef.com/problems/BIRYANI)
