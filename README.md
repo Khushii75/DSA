@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 44**
+**Total Solved: 45**
 
 | Topic | Solved |
 | --- | ---: |
@@ -172,7 +172,7 @@
 | Tree | 1 |
 | Mathematics | 19 |
 | Recursion | 1 |
-| Divide-and-Conquer | 1 |
+| Divide-and-Conquer | 2 |
 | Brute-Force | 1 |
 | Implementation | 2 |
 | Other | 8 |
@@ -289,6 +289,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%220527%22%2C%22topic%22%3A%22Divide-and-Conquer%22%7D -->
 - [Median of an Array](https://www.geeksforgeeks.org/problems/find-the-median0527/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225537%22%2C%22topic%22%3A%22Divide-and-Conquer%22%7D -->
+- [Modular Exponentiation](https://www.geeksforgeeks.org/problems/modular-exponentiation-for-large-numbers5537/1)
 
 ## Brute-Force
 
