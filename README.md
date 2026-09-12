@@ -162,11 +162,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 62**
+**Total Solved: 63**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 11 |
+| Array | 12 |
 | String | 3 |
 | Linked-List | 2 |
 | Heap | 2 |
@@ -179,6 +179,9 @@
 | Other | 11 |
 
 ## Array
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221365%22%2C%22topic%22%3A%22Array%22%7D -->
+- [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220215%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
