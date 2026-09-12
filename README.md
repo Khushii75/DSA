@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 65**
+**Total Solved: 66**
 
 | Topic | Solved |
 | --- | ---: |
@@ -172,7 +172,7 @@
 | Heap | 2 |
 | Tree | 1 |
 | Greedy | 1 |
-| Mathematics | 25 |
+| Mathematics | 26 |
 | Recursion | 1 |
 | Divide-and-Conquer | 2 |
 | Brute-Force | 1 |
@@ -297,6 +297,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222520%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Greatest of three numbers](https://www.geeksforgeeks.org/problems/greatest-of-three-numbers2520/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224516%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [LCM And GCD](https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222926%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Middle of Three](https://www.geeksforgeeks.org/problems/middle-of-three2926/1)
