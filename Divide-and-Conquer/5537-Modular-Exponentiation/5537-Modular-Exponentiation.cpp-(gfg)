@@ -1,0 +1,4 @@
+class Solution:
+	def powMod(self, x, n, M):
+		# code here
+		return pow(x,n,M)
