@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 63**
+**Total Solved: 64**
 
 | Topic | Solved |
 | --- | ---: |
@@ -171,6 +171,7 @@
 | Linked-List | 2 |
 | Heap | 2 |
 | Tree | 1 |
+| Greedy | 1 |
 | Mathematics | 24 |
 | Recursion | 1 |
 | Divide-and-Conquer | 2 |
@@ -247,6 +248,11 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220226%22%2C%22topic%22%3A%22Tree%22%7D -->
 - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+
+## Greedy
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22hackerrank%22%2C%22problemIdentifier%22%3A%220898%22%2C%22topic%22%3A%22Greedy%22%7D -->
+- [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)
 
 ## Mathematics
 
