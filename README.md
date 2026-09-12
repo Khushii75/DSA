@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 64**
+**Total Solved: 65**
 
 | Topic | Solved |
 | --- | ---: |
@@ -172,7 +172,7 @@
 | Heap | 2 |
 | Tree | 1 |
 | Greedy | 1 |
-| Mathematics | 24 |
+| Mathematics | 25 |
 | Recursion | 1 |
 | Divide-and-Conquer | 2 |
 | Brute-Force | 1 |
@@ -312,6 +312,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223207%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Perfect Numbers](https://www.geeksforgeeks.org/problems/perfect-numbers3207/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220050%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Pow(x, n)](https://leetcode.com/problems/powx-n/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222314%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1)
