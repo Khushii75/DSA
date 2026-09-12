@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 43**
+**Total Solved: 44**
 
 | Topic | Solved |
 | --- | ---: |
@@ -170,7 +170,7 @@
 | String | 1 |
 | Heap | 2 |
 | Tree | 1 |
-| Mathematics | 18 |
+| Mathematics | 19 |
 | Recursion | 1 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
@@ -240,6 +240,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223649%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Count Perfect Squares](https://www.geeksforgeeks.org/problems/count-squares3649/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221936%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [EASIEST PYTHON SOLUTION !](https://www.geeksforgeeks.org/problems/find-last-digit-of-ab-for-large-numbers1936/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22FCTRL%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Factorial](https://www.codechef.com/problems/FCTRL)
