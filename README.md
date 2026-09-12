@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 45**
+**Total Solved: 46**
 
 | Topic | Solved |
 | --- | ---: |
@@ -170,7 +170,7 @@
 | String | 1 |
 | Heap | 2 |
 | Tree | 1 |
-| Mathematics | 19 |
+| Mathematics | 20 |
 | Recursion | 1 |
 | Divide-and-Conquer | 2 |
 | Brute-Force | 1 |
@@ -222,6 +222,9 @@
 - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 
 ## Mathematics
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22absolute-value%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Absolute Value](https://www.geeksforgeeks.org/problems/absolute-value/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225442%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Check for Power](https://www.geeksforgeeks.org/problems/check-if-a-number-is-power-of-another-number5442/1)
