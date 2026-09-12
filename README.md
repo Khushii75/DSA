@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 47**
+**Total Solved: 48**
 
 | Topic | Solved |
 | --- | ---: |
@@ -170,7 +170,7 @@
 | String | 1 |
 | Heap | 2 |
 | Tree | 1 |
-| Mathematics | 21 |
+| Mathematics | 22 |
 | Recursion | 1 |
 | Divide-and-Conquer | 2 |
 | Brute-Force | 1 |
@@ -255,6 +255,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225739%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Factorial](https://www.geeksforgeeks.org/problems/factorial5739/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%220614%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [GCD of Array](https://www.geeksforgeeks.org/problems/gcd-of-array0614/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223459%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [GCD of Two](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1)
