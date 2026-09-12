@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 48**
+**Total Solved: 49**
 
 | Topic | Solved |
 | --- | ---: |
@@ -170,7 +170,7 @@
 | String | 1 |
 | Heap | 2 |
 | Tree | 1 |
-| Mathematics | 22 |
+| Mathematics | 23 |
 | Recursion | 1 |
 | Divide-and-Conquer | 2 |
 | Brute-Force | 1 |
@@ -279,6 +279,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22quadratic-equation-roots%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Quadratic Equation Roots](https://www.geeksforgeeks.org/problems/quadratic-equation-roots/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224512%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Sum of AP series](https://www.geeksforgeeks.org/problems/sum-of-ap-series4512/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225843%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Sum of Natural Number Cubes](https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1)
