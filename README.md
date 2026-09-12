@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 53**
+**Total Solved: 54**
 
 | Topic | Solved |
 | --- | ---: |
@@ -171,7 +171,7 @@
 | Linked-List | 1 |
 | Heap | 2 |
 | Tree | 1 |
-| Mathematics | 23 |
+| Mathematics | 24 |
 | Recursion | 1 |
 | Divide-and-Conquer | 2 |
 | Brute-Force | 1 |
@@ -282,6 +282,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225843%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Nth Root of M](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codeforces%22%2C%22problemIdentifier%22%3A%222258A%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Odd Eraser](https://codeforces.com/contest/2258/problem/A)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223618%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Odd or Even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1)
