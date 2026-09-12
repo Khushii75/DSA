@@ -268,6 +268,9 @@
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222926%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Middle of Three](https://www.geeksforgeeks.org/problems/middle-of-three2926/1)
 
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225843%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Nth Root of M](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1)
+
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223618%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Odd or Even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1)
 
@@ -282,9 +285,6 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224512%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Sum of AP series](https://www.geeksforgeeks.org/problems/sum-of-ap-series4512/1)
-
-<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225843%22%2C%22topic%22%3A%22Mathematics%22%7D -->
-- [Sum of Natural Number Cubes](https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223857%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Sum Palindrome](https://www.geeksforgeeks.org/problems/sum-palindrome3857/1)
