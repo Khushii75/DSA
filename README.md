@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 42**
+**Total Solved: 43**
 
 | Topic | Solved |
 | --- | ---: |
@@ -170,7 +170,7 @@
 | String | 1 |
 | Heap | 2 |
 | Tree | 1 |
-| Mathematics | 17 |
+| Mathematics | 18 |
 | Recursion | 1 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
@@ -261,6 +261,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223207%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Perfect Numbers](https://www.geeksforgeeks.org/problems/perfect-numbers3207/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222314%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22quadratic-equation-roots%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Quadratic Equation Roots](https://www.geeksforgeeks.org/problems/quadratic-equation-roots/1)
