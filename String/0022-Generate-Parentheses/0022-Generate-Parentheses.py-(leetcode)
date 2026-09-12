@@ -1,0 +1,10 @@
+class Solution:
+    def generateParenthesis(self, n):
+        res = ["()"]
+        for _ in range(1, n):
+            curr = set()
+            for s in res:
+                for i in range(len(s) + 1):
+                    curr.add(s[:i] + "()" + s[i:])
+            res = list(curr)
+        return res
