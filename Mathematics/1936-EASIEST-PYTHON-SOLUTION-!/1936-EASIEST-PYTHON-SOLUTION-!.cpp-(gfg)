@@ -1,0 +1,13 @@
+class Solution:
+    def getLastDigit(self, a, b):
+        # code here
+        # a= int(a[-1])
+        # x=a**int(b)
+        # x=str(x)
+        # return x[-1]  Takes much time due to high val of b
+        
+        a=int(a[-1])
+        b=int(b)
+        return pow(a,b,10)
+        
+        
