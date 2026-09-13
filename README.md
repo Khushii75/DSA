@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 69**
+**Total Solved: 70**
 
 | Topic | Solved |
 | --- | ---: |
@@ -173,7 +173,7 @@
 | Tree | 1 |
 | Greedy | 1 |
 | Mathematics | 26 |
-| Recursion | 1 |
+| Recursion | 2 |
 | Divide-and-Conquer | 2 |
 | Brute-Force | 1 |
 | Implementation | 4 |
@@ -341,6 +341,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223621%22%2C%22topic%22%3A%22Recursion%22%7D -->
 - [1 to n Without Loops](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22print-n-to-1-without-loop%22%2C%22topic%22%3A%22Recursion%22%7D -->
+- [Print n to 1 Without Loop](https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1)
 
 ## Divide-and-Conquer
 
