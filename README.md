@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 67**
+**Total Solved: 68**
 
 | Topic | Solved |
 | --- | ---: |
@@ -177,7 +177,7 @@
 | Divide-and-Conquer | 2 |
 | Brute-Force | 1 |
 | Implementation | 4 |
-| Other | 12 |
+| Other | 13 |
 
 ## Array
 
@@ -376,6 +376,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22convert-celsius-to-fahrenheit%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Convert Celsius To Fahrenheit](https://www.geeksforgeeks.org/problems/convert-celsius-to-fahrenheit/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%22101176%22%2C%22topic%22%3A%22Other%22%7D -->
+- [Cyclically Shift Rows and Columns](https://leetcode.com/problems/cyclically-shift-rows-and-columns/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22hackerrank%22%2C%22problemIdentifier%22%3A%228662%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
