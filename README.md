@@ -162,13 +162,13 @@
 
 ## 📊 Progress
 
-**Total Solved: 68**
+**Total Solved: 69**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 12 |
 | String | 3 |
-| Linked-List | 2 |
+| Linked-List | 3 |
 | Heap | 2 |
 | Tree | 1 |
 | Greedy | 1 |
@@ -229,6 +229,9 @@
 - [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 
 ## Linked-List
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220002%22%2C%22topic%22%3A%22Linked-List%22%7D -->
+- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220019%22%2C%22topic%22%3A%22Linked-List%22%7D -->
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
