@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 71**
+**Total Solved: 72**
 
 | Topic | Solved |
 | --- | ---: |
@@ -172,7 +172,7 @@
 | Heap | 2 |
 | Tree | 1 |
 | Greedy | 1 |
-| Mathematics | 26 |
+| Mathematics | 27 |
 | Recursion | 2 |
 | Divide-and-Conquer | 2 |
 | Brute-Force | 1 |
@@ -327,6 +327,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22quadratic-equation-roots%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Quadratic Equation Roots](https://www.geeksforgeeks.org/problems/quadratic-equation-roots/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220836%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224512%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Sum of AP series](https://www.geeksforgeeks.org/problems/sum-of-ap-series4512/1)
