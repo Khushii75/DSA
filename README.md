@@ -162,11 +162,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 72**
+**Total Solved: 73**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 12 |
+| Array | 13 |
 | String | 3 |
 | Linked-List | 3 |
 | Heap | 2 |
@@ -180,6 +180,9 @@
 | Other | 14 |
 
 ## Array
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220682%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Baseball Game](https://leetcode.com/problems/baseball-game/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221365%22%2C%22topic%22%3A%22Array%22%7D -->
 - [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
