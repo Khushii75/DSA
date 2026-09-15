@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 74**
+**Total Solved: 75**
 
 | Topic | Solved |
 | --- | ---: |
@@ -172,7 +172,7 @@
 | Heap | 2 |
 | Tree | 1 |
 | Greedy | 1 |
-| Mathematics | 27 |
+| Mathematics | 28 |
 | Two-Pointers | 1 |
 | Recursion | 2 |
 | Divide-and-Conquer | 2 |
@@ -334,6 +334,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220836%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220069%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224512%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Sum of AP series](https://www.geeksforgeeks.org/problems/sum-of-ap-series4512/1)
