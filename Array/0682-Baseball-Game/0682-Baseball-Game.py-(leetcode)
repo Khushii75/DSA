@@ -1,0 +1,24 @@
+class Solution(object):
+    def calPoints(self, operations):
+        """
+        :type operations: List[str]
+        :rtype: int
+        """
+
+        st = []
+
+        for i in operations:
+
+            if i.lstrip("-").isdigit():
+                st.append(int(i))
+
+            elif i == "C":
+                st.pop()
+
+            elif i == "D":
+                st.append(st[-1] * 2)
+
+            elif i == "+":
+                st.append(st[-1] + st[-2])
+
+        return sum(st)
