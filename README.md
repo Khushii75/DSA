@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 73**
+**Total Solved: 74**
 
 | Topic | Solved |
 | --- | ---: |
@@ -173,6 +173,7 @@
 | Tree | 1 |
 | Greedy | 1 |
 | Mathematics | 27 |
+| Two-Pointers | 1 |
 | Recursion | 2 |
 | Divide-and-Conquer | 2 |
 | Brute-Force | 1 |
@@ -342,6 +343,11 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222452%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Today's GFG POTD Solution ✅ in O(1)](https://www.geeksforgeeks.org/problems/reverse-coding2452/1)
+
+## Two-Pointers
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220844%22%2C%22topic%22%3A%22Two-Pointers%22%7D -->
+- [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 
 ## Recursion
 
