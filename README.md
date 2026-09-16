@@ -162,11 +162,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 76**
+**Total Solved: 77**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 14 |
+| Array | 15 |
 | String | 3 |
 | Linked-List | 3 |
 | Heap | 2 |
@@ -181,6 +181,9 @@
 | Other | 14 |
 
 ## Array
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22print-alternate-elements-of-an-array%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Alternates in an Array](https://www.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220682%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Baseball Game](https://leetcode.com/problems/baseball-game/)
