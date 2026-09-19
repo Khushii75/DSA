@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 80**
+**Total Solved: 81**
 
 | Topic | Solved |
 | --- | ---: |
@@ -172,7 +172,7 @@
 | Heap | 2 |
 | Tree | 1 |
 | Greedy | 1 |
-| Mathematics | 28 |
+| Mathematics | 29 |
 | Two-Pointers | 1 |
 | Recursion | 2 |
 | Divide-and-Conquer | 3 |
@@ -281,6 +281,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225442%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Check for Power](https://www.geeksforgeeks.org/problems/check-if-a-number-is-power-of-another-number5442/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221401%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220070%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
