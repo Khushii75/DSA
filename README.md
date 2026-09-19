@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 78**
+**Total Solved: 79**
 
 | Topic | Solved |
 | --- | ---: |
@@ -176,6 +176,7 @@
 | Two-Pointers | 1 |
 | Recursion | 2 |
 | Divide-and-Conquer | 2 |
+| Prefix-Sum | 1 |
 | Brute-Force | 1 |
 | Implementation | 4 |
 | Other | 14 |
@@ -376,6 +377,11 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225537%22%2C%22topic%22%3A%22Divide-and-Conquer%22%7D -->
 - [Modular Exponentiation](https://www.geeksforgeeks.org/problems/modular-exponentiation-for-large-numbers5537/1)
+
+## Prefix-Sum
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22intersecting-intervals%22%2C%22topic%22%3A%22Prefix-Sum%22%7D -->
+- [Python solution using `heapq` module:](https://www.geeksforgeeks.org/problems/intersecting-intervals/1)
 
 ## Brute-Force
 
