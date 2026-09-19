@@ -1,0 +1,28 @@
+class Solution(object):
+    def isPathCrossing(self, path):
+        """
+        :type path: str
+        :rtype: bool
+        """
+        cntX=0
+        cntY=0
+        freq={(cntX, cntY) : 1}
+        for i in path:
+            if i== 'N':
+                cntX+=1
+            elif i=='S':
+                cntX-=1
+            elif i== 'E':
+                cntY +=1
+            elif i == 'W':
+                cntY -=1
+            freq[(cntX, cntY)]= freq.get((cntX, cntY),0)+1
+
+            if freq[(cntX, cntY)]>1:
+                return True
+        return False
+
+   
+    
+
+        
