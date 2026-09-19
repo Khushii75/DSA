@@ -1,0 +1,30 @@
+class Solution:
+    def studentCnt(self, arr, pages):
+        pageStu=0
+        stuCnt=1
+        for i in range(len(arr)):
+            if (pageStu + arr[i]<=pages):
+                pageStu+=arr[i]
+            else:
+                stuCnt+=1
+                pageStu=arr[i]
+        return stuCnt
+                
+    def findPages(self, arr, k):
+        n=len(arr)
+        if(n<k):
+            return -1
+        # code here
+        low= max(arr)
+        high=sum(arr)
+        while low<=high:
+            mid= (low+high)//2
+            student=self.studentCnt(arr,mid)
+            if student > k:
+                low= mid+1
+            else:
+                high=mid-1
+                
+        return low
+                
+            
