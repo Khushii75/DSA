@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 79**
+**Total Solved: 80**
 
 | Topic | Solved |
 | --- | ---: |
@@ -175,7 +175,7 @@
 | Mathematics | 28 |
 | Two-Pointers | 1 |
 | Recursion | 2 |
-| Divide-and-Conquer | 2 |
+| Divide-and-Conquer | 3 |
 | Prefix-Sum | 1 |
 | Brute-Force | 1 |
 | Implementation | 4 |
@@ -371,6 +371,9 @@
 - [Print n to 1 Without Loop](https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1)
 
 ## Divide-and-Conquer
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%220937%22%2C%22topic%22%3A%22Divide-and-Conquer%22%7D -->
+- [Allocate Minimum Pages](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%220527%22%2C%22topic%22%3A%22Divide-and-Conquer%22%7D -->
 - [Median of an Array](https://www.geeksforgeeks.org/problems/find-the-median0527/1)
