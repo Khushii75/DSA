@@ -1,0 +1,25 @@
+class Solution:
+    def overlapInt(self, arr):
+        # code here
+        event=[]
+        for i in arr:
+            start=i[0] #1st part is starting point
+            end=i[1]    #2nd part is ending point
+            
+            event.append([start, 0])
+            event.append([end, 1])
+        event.sort()
+        inside=0
+        best=0
+        
+        for j in event:
+            k=j[1]
+            if k==0:
+                inside+=1
+                best= max(best, inside)
+            else:
+                inside-=1
+        return best
+            
+        
+        
