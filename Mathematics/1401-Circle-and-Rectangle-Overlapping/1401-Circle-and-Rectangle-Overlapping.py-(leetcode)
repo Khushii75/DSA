@@ -1,31 +1,22 @@
-class Solution(object):
-    def checkOverlap(self, radius, xCenter, yCenter, x1, y1, x2, y2):
-        """
-        :type radius: int
-        :type xCenter: int
-        :type yCenter: int
-        :type x1: int
-        :type y1: int
-        :type x2: int
-        :type y2: int
-        :rtype: bool
-        """
-        if xCenter<x1:
+class Solution:
+    def checkOverlap(self, radius: int, xCenter: int, yCenter: int, x1: int, y1: int, x2: int, y2: int) -> bool:
+
+        if x1>xCenter:
             xClo=x1
-        elif xCenter>x2:
+        elif x2<xCenter:
             xClo=x2
         else:
             xClo=xCenter
         
-        if yCenter<y1:
+        if y1>yCenter:
             yClo=y1
-        elif yCenter>y2:
+        elif y2<yCenter:
             yClo=y2
         else:
             yClo=yCenter
-        
-        disX= xClo-xCenter
-        disY= yClo-yCenter
 
-        return disX*disX + disY*disY <= radius*radius
-        
+        xDis= xClo-xCenter
+        yDis= yClo-yCenter
+
+        return xDis*xDis + yDis*yDis <= radius*radius
+    
