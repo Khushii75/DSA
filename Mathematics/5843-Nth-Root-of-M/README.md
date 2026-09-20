@@ -10,7 +10,7 @@ Practice
 
 Jobs
 
-Switch to Light Mode
+Switch to Dark Mode
 99+
 
 Menu
@@ -26,7 +26,7 @@ ProblemEditorialSubmissionsComments
 Nth Root of M
 Solved
 
-Difficulty: MediumAccuracy: 25.06%Submissions: 302K+Points: 4Average Time: 15m
+Difficulty: MediumAccuracy: 25.06%Submissions: 304K+Points: 4Average Time: 15m
 
 You are given 2 numbers n and m, the task is to find n√m (nth root of m). If the root is not integer then return -1.
 
@@ -77,7 +77,7 @@ Commenting as Khushi KumariComment Anonymously
 Please avoid posting complete solutions or full code in the comments.
 Ask questions, share hints, discuss approaches, or report any issues. Let's help everyone learn together.
 
-Nikhil4 days agoSep 07, 2026 17:22 (GMT +5:30)
+Nikhil1 week agoSep 07, 2026 17:22 (GMT +5:30)
 
 class Solution {
 public int nthRoot(int n, int m) {
@@ -249,7 +249,7 @@ else return temp;
 
 Reply
 
-Jayanta Nath2 months agoJun 20, 2026 13:33 (GMT +5:30)
+Jayanta Nath3 months agoJun 20, 2026 13:33 (GMT +5:30)
 
 # Binary search + Early stopping (avoids overflow)
 
@@ -283,7 +283,7 @@ return -1
 
 Reply
 
-ved patel2 months agoJun 19, 2026 14:14 (GMT +5:30)
+ved patel3 months agoJun 19, 2026 14:14 (GMT +5:30)
 
 here it's simple solution with binary search case
 
@@ -354,7 +354,7 @@ return - 1; }
 Reply
 
 Praneeth(Edited)18/06/2026, 08:06
-2 months agoJun 18, 2026 08:06 (GMT +5:30)
+3 months agoJun 18, 2026 08:06 (GMT +5:30)
 
 Simple C++ Solution | O (log m * log n) Quick Power (Binary Exponentiation) | Binary Search
 
@@ -390,7 +390,7 @@ return res;
 
 Reply
 
-Shivam(Edited)07/06/2026, 16:33
+Shivam Mishra(Edited)07/06/2026, 16:33
 3 months agoJun 07, 2026 16:29 (GMT +5:30)
 
 To find the n-th root of m efficiently, we can use Binary Search.
@@ -669,11 +669,11 @@ Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed100 / 100
-Attempts : Correct / Total1 / 1Accuracy : 100%
-
-Points Scored 4 / 4Your Total Score:184
+Attempts : Correct / Total2 / 5Accuracy : 40%
 
 Time Taken0.03
+
+You get marks only for the first correct submission if you solve the problem without viewing the full solution.
 
 Python3
 C++ (17)
@@ -706,21 +706,47 @@ Choose Your Preferred font For The Code Editor
 15
 16
 17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
 
-# class Solution:
-#     def nthRoot(self, n, m):
-#       # code here
-#       x = round(m ** (1/n))
-
-#       if x ** n == m:
-#           return x
-#       return -1
 class Solution:
+def root(self, n, mid):
+num=1
+for i in range(n):
+num *= mid
+return num
+
 def nthRoot(self, n, m):
-x = m ** (1/n)
-if x == int(x):
-return int(x)
+# code here
+low=0
+high=m
+if n==1:
+return m
+if m==1:
+return 1
+while low<=high:
+mid=(low+high)//2
+number = self.root(n, mid)
+if number == m:
+return mid
+elif number>m:
+high = mid-1
 else:
+low=mid+1
 return -1
 
 הההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההה
@@ -733,11 +759,11 @@ Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed100 / 100
-Attempts : Correct / Total1 / 1Accuracy : 100%
-
-Points Scored 4 / 4Your Total Score:184
+Attempts : Correct / Total2 / 5Accuracy : 40%
 
 Time Taken0.03
+
+You get marks only for the first correct submission if you solve the problem without viewing the full solution.
 
 Custom Input
 
