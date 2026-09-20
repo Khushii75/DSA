@@ -1,0 +1,12 @@
+class Solution(object):
+    def reverseDegree(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        sum=0
+        for i in range(len(s)):
+            val= 26- (ord(s[i])-ord('a'))
+            deg= val*(i+1)
+            sum += deg
+        return sum
