@@ -1,16 +1,32 @@
-# class Solution:
-#     def nthRoot(self, n, m):
-#       # code here
-#       x = round(m ** (1/n))
-
-#       if x ** n == m:
-#           return x
-#       return -1
 class Solution:
+    def root(self, n, mid):
+        num=1
+        for i in range(n):
+            num *= mid
+        return num
+        
     def nthRoot(self, n, m):
-        x = m ** (1/n)
-        if x == int(x):
-            return int(x)
-        else:
-            return -1
+       # code here
+        low=0
+        high=m
+        if n==1:
+            return m
+        if m==1:
+            return 1
+        while low<=high:
+            mid=(low+high)//2
+            number = self.root(n, mid)
+            if number == m:
+               return mid
+            elif number>m:
+                high = mid-1
+            else:
+                low=mid+1
+        return -1
+                
+           
+           
+           
+               
+        
        
