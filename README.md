@@ -162,11 +162,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 83**
+**Total Solved: 84**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 16 |
+| Array | 17 |
 | String | 4 |
 | Linked-List | 3 |
 | Hash-Table | 1 |
@@ -192,6 +192,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221365%22%2C%22topic%22%3A%22Array%22%7D -->
 - [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220875%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220215%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
