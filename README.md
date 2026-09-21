@@ -162,12 +162,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 84**
+**Total Solved: 85**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 17 |
-| String | 4 |
+| String | 5 |
 | Linked-List | 3 |
 | Hash-Table | 1 |
 | Heap | 2 |
@@ -245,6 +245,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220010%22%2C%22topic%22%3A%22String%22%7D -->
 - [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%222390%22%2C%22topic%22%3A%22String%22%7D -->
+- [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223498%22%2C%22topic%22%3A%22String%22%7D -->
 - [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/)
