@@ -1,0 +1,29 @@
+class Solution:
+    def possible(self, arr, k, mid):
+        cnt=0
+        noB=0
+        for i in arr:
+            if i<=mid:
+                cnt+=1
+                if cnt==k:
+                    noB+=1
+                    cnt=0
+            else:
+                cnt=0
+        return noB
+            
+        
+    def minDaysBloom(self, arr, k, m):
+        # Code here
+        if k*m > len(arr):
+            return -1
+        l=1
+        h=max(arr)
+        while l<=h:
+            mid=(l+h)//2
+            b=self.possible(arr, k, mid)
+            if b>=m:
+                h=mid-1
+            else:
+                l=mid+1
+        return l
