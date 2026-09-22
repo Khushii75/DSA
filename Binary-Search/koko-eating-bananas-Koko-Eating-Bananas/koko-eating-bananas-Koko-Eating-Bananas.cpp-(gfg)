@@ -1,0 +1,23 @@
+import math
+class Solution:
+    def banana(self, arr, mid):
+        s=0
+        for i in arr:
+            s+=math.ceil(i/mid)
+        return s
+    def kokoEat(self, arr, k):
+        # Code here
+        l=1
+        h=max(arr)
+        while l<=h:
+            mid=(l+h)//2
+            b=self.banana(arr,mid)
+            if b<=k:
+                h=mid-1
+            else:
+                l=mid+1
+                
+        return l
+            
+            
+             
