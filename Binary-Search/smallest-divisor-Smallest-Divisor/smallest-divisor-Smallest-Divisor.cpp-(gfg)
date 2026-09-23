@@ -1,0 +1,22 @@
+import math
+class Solution:
+    def div(self, arr, mid):
+        s=0
+        for i in arr:
+            s+=math.ceil(i/mid)
+        return s
+            
+            
+    def smallestDivisor(self, arr, k):
+        # Code here
+        l=1
+        h=max(arr)
+        while l<=h:
+            mid=(l+h)//2
+            sum=self.div(arr, mid)
+            if sum>k:
+                l=mid+1
+            else:
+                h=mid-1
+        return l
+            
