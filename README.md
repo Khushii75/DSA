@@ -162,11 +162,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 88**
+**Total Solved: 89**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 17 |
+| Array | 18 |
 | String | 5 |
 | Linked-List | 3 |
 | Hash-Table | 1 |
@@ -190,6 +190,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220682%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Baseball Game](https://leetcode.com/problems/baseball-game/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221011%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221365%22%2C%22topic%22%3A%22Array%22%7D -->
 - [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
