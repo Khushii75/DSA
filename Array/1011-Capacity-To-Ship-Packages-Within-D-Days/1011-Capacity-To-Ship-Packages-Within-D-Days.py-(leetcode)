@@ -1,0 +1,31 @@
+class Solution(object):
+    def cap(self, weights, mid):
+        d=1
+        c=0
+        for i in weights:
+            if c+i<=mid:
+                c+=i
+            else:
+                d+=1
+                c=i
+        return d
+
+    def shipWithinDays(self, weights, days):
+        """
+        :type weights: List[int]
+        :type days: int
+        :rtype: int
+        """
+        l=max(weights)
+        h=sum(weights)
+        while l<=h:
+            mid=(l+h)//2
+            gDay=self.cap(weights, mid)
+            if gDay<=days:
+                h=mid-1
+            else:
+                l=mid+1
+        return l
+
+        
+        
