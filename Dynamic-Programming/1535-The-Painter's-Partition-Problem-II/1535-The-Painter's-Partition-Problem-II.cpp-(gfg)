@@ -1,0 +1,27 @@
+class Solution:
+    def painting(self, arr, mid):
+        pntCnt=0
+        p=1
+        for i in arr:
+            if pntCnt+i <= mid:
+                pntCnt+=i
+            else:
+                p+=1
+                pntCnt=i
+        return p
+                
+    def minTime (self, arr, k):
+        # code here
+        if (len(arr)<k):
+            return -1
+        l=max(arr)
+        h=sum(arr)
+        while l<=h:
+            mid=(l+h)//2
+            painter=self.painting(arr,mid)
+            if(painter <= k):
+                h=mid-1
+            else:
+                l=mid+1
+        return l
+        
