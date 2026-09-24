@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 91**
+**Total Solved: 92**
 
 | Topic | Solved |
 | --- | ---: |
@@ -172,6 +172,7 @@
 | Hash-Table | 1 |
 | Heap | 2 |
 | Tree | 1 |
+| Dynamic-Programming | 1 |
 | Greedy | 1 |
 | Mathematics | 29 |
 | Two-Pointers | 1 |
@@ -287,6 +288,11 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220226%22%2C%22topic%22%3A%22Tree%22%7D -->
 - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+
+## Dynamic-Programming
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221535%22%2C%22topic%22%3A%22Dynamic-Programming%22%7D -->
+- [The Painter's Partition Problem-II](https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1)
 
 ## Greedy
 
