@@ -162,11 +162,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 90**
+**Total Solved: 91**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 18 |
+| Array | 19 |
 | String | 5 |
 | Linked-List | 3 |
 | Hash-Table | 1 |
@@ -235,6 +235,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220136%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Single Number](https://leetcode.com/problems/single-number/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223550%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223903%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/)
