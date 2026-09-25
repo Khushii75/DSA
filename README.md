@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 93**
+**Total Solved: 94**
 
 | Topic | Solved |
 | --- | ---: |
@@ -172,7 +172,7 @@
 | Hash-Table | 1 |
 | Heap | 2 |
 | Tree | 1 |
-| Graph | 1 |
+| Graph | 2 |
 | Dynamic-Programming | 1 |
 | Greedy | 1 |
 | Mathematics | 29 |
@@ -294,6 +294,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22bfs-traversal-of-graph%22%2C%22topic%22%3A%22Graph%22%7D -->
 - [BFS of Graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22depth-first-traversal-for-a-graph%22%2C%22topic%22%3A%22Graph%22%7D -->
+- [DFS of Graph](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)
 
 ## Dynamic-Programming
 
