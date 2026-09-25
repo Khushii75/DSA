@@ -1,0 +1,20 @@
+from collections import deque
+class Solution:
+    def bfs(self, adj):
+        # code here
+        n=len(adj)
+        vis=[0]*n
+        res=[]
+        q=deque()
+        q.append(0)
+        vis[0]=1
+        while len(q)!=0:
+            e=q.popleft()
+            res.append(e)
+            for i in adj[e]:
+                if vis[i]==0:
+                    q.append(i)
+                    vis[i]=1
+        return res
+                
+        
