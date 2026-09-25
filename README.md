@@ -162,11 +162,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 94**
+**Total Solved: 95**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 19 |
+| Array | 20 |
 | String | 5 |
 | Linked-List | 3 |
 | Hash-Table | 1 |
@@ -225,6 +225,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222614%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220994%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220035%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
