@@ -1,0 +1,17 @@
+class Solution:
+    def dfs(self, adj):
+        # code here
+        n=len(adj)
+        vis=[0]*n
+        res=[]
+        #node is current node from n
+        def dfs1(node):
+            vis[node]=1
+            res.append(node)
+            
+            
+            for i in adj[node]:
+                if vis[i]==0:
+                    dfs1(i)
+        dfs1(0)
+        return res
