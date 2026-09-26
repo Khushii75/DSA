@@ -1,0 +1,33 @@
+class Solution(object):
+    def floodFill(self, image, sr, sc, color):
+        """
+        :type image: List[List[int]]
+        :type sr: int
+        :type sc: int
+        :type color: int
+        :rtype: List[List[int]]
+        """
+        init_color=image[sr][sc]
+        row=len(image)
+        col=len(image[0])
+        q=deque()
+        q.append((sr,sc))
+        vis=deepcopy(image)
+        if vis[sr][sc]==color:
+            return image
+        while len(q)!=0:
+            i,j=q.popleft()
+            vis[i][j]=color
+            for x,y in [(1,0),(-1,0),(0,1),(0,-1)]:
+                new_i=i+x
+                new_j=j+y
+                if new_i<0 or new_i>=row or new_j <0 or new_j>=col:
+                    continue
+                if vis[new_i][new_j]!=init_color:
+                    continue
+                q.append((new_i, new_j))
+                vis[new_i][new_j]=color
+        return vis
+
+
+        
