@@ -1,0 +1,35 @@
+from collections import deque
+class Solution:
+	def isCycle(self, V, edges):
+		#Code here
+		adj_list=[[] for _ in range(V)]
+		for u,v in edges:
+		    adj_list[u].append(v)
+		    adj_list[v].append(u)
+		vis=[0]*V
+		for i in range(V):
+		    if vis[i]==1:
+		        continue
+		    #not visited store node, parent into queue
+	        q=deque()
+	        q.append((i,-1))
+	        vis[i]=1
+	        while q:
+	            node, parent=q.popleft()
+	            #check for adj_List
+	            for i in adj_list[node]:
+	                if vis[i]==0:
+	                    vis[i]=1
+	                    q.append((i,node))
+	                else:
+	                    if i!=parent:
+	                        return True
+        return False
+	                        
+	                    
+	                    
+	                
+	        
+	    
+		    
+		    
