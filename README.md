@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 96**
+**Total Solved: 97**
 
 | Topic | Solved |
 | --- | ---: |
@@ -172,7 +172,7 @@
 | Hash-Table | 1 |
 | Heap | 2 |
 | Tree | 1 |
-| Graph | 2 |
+| Graph | 3 |
 | Dynamic-Programming | 1 |
 | Greedy | 1 |
 | Mathematics | 29 |
@@ -303,6 +303,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22depth-first-traversal-for-a-graph%22%2C%22topic%22%3A%22Graph%22%7D -->
 - [DFS of Graph](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22detect-cycle-in-an-undirected-graph%22%2C%22topic%22%3A%22Graph%22%7D -->
+- [Undirected Graph Cycle](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
 
 ## Dynamic-Programming
 
