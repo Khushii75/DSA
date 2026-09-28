@@ -162,12 +162,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 97**
+**Total Solved: 98**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 21 |
-| String | 5 |
+| String | 6 |
 | Linked-List | 3 |
 | Hash-Table | 1 |
 | Heap | 2 |
@@ -254,6 +254,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220022%22%2C%22topic%22%3A%22String%22%7D -->
 - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221614%22%2C%22topic%22%3A%22String%22%7D -->
+- [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222751%22%2C%22topic%22%3A%22String%22%7D -->
 - [Palindrome Digit Sum](https://www.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not2751/1)
