@@ -1,0 +1,34 @@
+class Solution:
+    def dfs(self,curr_node, vis , path_vis, adj_list ):
+        vis[curr_node]=1
+        path_vis[curr_node]=1
+        for i in adj_list[curr_node]:
+            if vis[i]==0:
+                x=self.dfs(i, vis , path_vis, adj_list )
+                
+                if x==True:
+                    return True
+            elif path_vis[i]==1:
+                return True
+        path_vis[curr_node]=0
+        return False
+        
+        
+        
+    def isCyclic(self, V: int, edges: list[list[int]]) -> bool:
+        # code here
+        vis=[0]*V
+        path_vis=[0]*V
+        adj_list=[[] for _ in range(V)]
+        
+        for u,v in edges:
+            adj_list[u].append(v)
+            
+        for i in range(V):
+            if vis[i]==0:
+                ans=self.dfs(i, vis , path_vis, adj_list)
+                if ans==True:
+                    return True
+          
+        return False
+            
