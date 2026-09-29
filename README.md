@@ -162,11 +162,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 98**
+**Total Solved: 99**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 21 |
+| Array | 22 |
 | String | 6 |
 | Linked-List | 3 |
 | Hash-Table | 1 |
@@ -195,6 +195,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221011%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221394%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220733%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Flood Fill](https://leetcode.com/problems/flood-fill/)
