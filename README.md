@@ -162,11 +162,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 100**
+**Total Solved: 101**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 22 |
+| Array | 23 |
 | String | 6 |
 | Linked-List | 3 |
 | Hash-Table | 1 |
@@ -186,6 +186,9 @@
 | Other | 14 |
 
 ## Array
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220542%22%2C%22topic%22%3A%22Array%22%7D -->
+- [01 Matrix](https://leetcode.com/problems/01-matrix/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22print-alternate-elements-of-an-array%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Alternates in an Array](https://www.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1)
