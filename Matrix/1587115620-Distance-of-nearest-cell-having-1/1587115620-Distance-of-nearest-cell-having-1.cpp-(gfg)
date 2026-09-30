@@ -1,0 +1,33 @@
+from collections import deque
+class Solution:
+	def nearest(self, grid):
+		# code here
+		row= len(grid)
+        col= len(grid[0])
+        vis=[[0 for _ in range(col)] for _ in range(row)]
+        dis=[[0 for _ in range(col)] for _ in range(row)]
+        
+        q=deque()
+        for r in range(row):
+            for c in range(col):
+                if grid[r][c]==1:
+                    q.append((r,c,0))
+                    vis[r][c]=1
+        while q:
+            i,j,d=q.popleft()
+            dis[i][j]=d
+            
+            for x,y in [(1,0),(-1,0),(0,1),(0,-1)]:
+                new_i=i+x
+                new_j=j+y
+                if new_i<0 or new_i>=row or new_j<0 or new_j>=col:
+                    continue
+                if vis[new_i][new_j]==1:
+                    continue
+                
+                
+                vis[new_i][new_j]=1
+                q.append((new_i, new_j, d+1))
+                
+        return dis
+        
