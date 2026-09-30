@@ -1,0 +1,29 @@
+class Solution(object):
+    def updateMatrix(self, mat):
+        """
+        :type mat: List[List[int]]
+        :rtype: List[List[int]]
+        """
+        row=len(mat)
+        col=len(mat[0])
+        vis=[[0 for _ in range(col)] for _ in range(row)]
+        dis=[[0 for _ in range(col)] for _ in range(row)]
+        q=deque()
+        for r in range(row):
+            for c in range(col):
+                if mat[r][c]==0:
+                    q.append([r,c,0])
+                    vis[r][c]=1
+        while len(q)!=0:
+            i,j,d=q.popleft()
+            dis[i][j]=d
+            for x,y in [(1,0), (-1,0), (0,1), (0,-1)]:
+                new_i=i+x
+                new_j=j+y
+                if new_i<0 or new_i>=row or new_j<0 or new_j>=col:
+                    continue
+                if vis[new_i][new_j]==1:
+                    continue
+                q.append([new_i,new_j,d+1])        
+                vis[new_i][new_j]=1
+        return dis
