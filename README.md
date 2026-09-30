@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 101**
+**Total Solved: 102**
 
 | Topic | Solved |
 | --- | ---: |
@@ -176,6 +176,7 @@
 | Dynamic-Programming | 1 |
 | Greedy | 1 |
 | Mathematics | 29 |
+| Matrix | 1 |
 | Two-Pointers | 1 |
 | Binary-Search | 4 |
 | Recursion | 2 |
@@ -417,6 +418,11 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222452%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Today's GFG POTD Solution ✅ in O(1)](https://www.geeksforgeeks.org/problems/reverse-coding2452/1)
+
+## Matrix
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221587115620%22%2C%22topic%22%3A%22Matrix%22%7D -->
+- [Distance of nearest cell having 1](https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1)
 
 ## Two-Pointers
 
