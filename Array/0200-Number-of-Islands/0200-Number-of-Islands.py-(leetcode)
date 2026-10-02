@@ -1,0 +1,38 @@
+from collections import deque
+class Solution(object):
+    def bfs(self, i, j, vis, grid):
+        row=len(grid)
+        col=len(grid[0])
+        q=deque()
+        q.append((i,j))
+        vis[i][j]=1
+        while q:
+            i,j=q.popleft()
+            for x,y in [(1,0),(-1,0),(0,1),(0,-1)]:
+                new_i=x+i
+                new_j=y+j
+                if new_i<0 or new_i>=row or new_j<0 or new_j>=col:
+                    continue
+                if grid[new_i][new_j]=="0":
+                    continue
+                if vis[new_i][new_j]==1:
+                    continue
+                vis[new_i][new_j]=1
+                q.append((new_i, new_j))
+
+    def numIslands(self, grid):
+        """
+        :type grid: List[List[str]]
+        :rtype: int
+        """
+        row=len(grid)
+        col=len(grid[0])
+        count=0
+        vis=[[0 for _ in range(col)] for _ in range(row)]
+        for r in range(row):
+            for c in range(col):
+                if grid[r][c]=="1" and vis[r][c]==0:
+                    count += 1
+                    self.bfs(r,c,vis,grid)
+        return count
+        
