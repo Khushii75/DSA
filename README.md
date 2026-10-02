@@ -162,11 +162,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 102**
+**Total Solved: 103**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 23 |
+| Array | 24 |
 | String | 6 |
 | Linked-List | 3 |
 | Hash-Table | 1 |
@@ -220,6 +220,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221416%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Missing in Array](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220200%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22peak-element%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Peak element](https://www.geeksforgeeks.org/problems/peak-element/1)
