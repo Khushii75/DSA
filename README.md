@@ -162,11 +162,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 105**
+**Total Solved: 106**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 24 |
+| Array | 25 |
 | String | 7 |
 | Linked-List | 3 |
 | Hash-Table | 1 |
@@ -214,6 +214,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220215%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220014%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221848%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/)
