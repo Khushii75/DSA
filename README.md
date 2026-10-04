@@ -162,12 +162,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 106**
+**Total Solved: 107**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 25 |
-| String | 7 |
+| String | 8 |
 | Linked-List | 3 |
 | Hash-Table | 1 |
 | Heap | 2 |
@@ -285,6 +285,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223498%22%2C%22topic%22%3A%22String%22%7D -->
 - [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220678%22%2C%22topic%22%3A%22String%22%7D -->
+- [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
 
 ## Linked-List
 
