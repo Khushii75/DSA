@@ -1,0 +1,23 @@
+class Solution:
+    def printGraph(self, V: int, edges): 
+        # code here
+        adj_list=[[] for _ in range(V)]
+        for u,v in edges:
+            adj_list[u].append(v)
+            adj_list[v].append(u)
+        return adj_list
+
+# class Solution:
+
+#     def printGraph(self, V, edges):
+
+#         # Create one empty list for every node
+#         adj_list = [[] for _ in range(V)]
+
+#         # Add both directions because graph is undirected
+#         for u, v in edges:
+
+#             adj_list[u].append(v)
+#             adj_list[v].append(u)
+
+#         return adj_list
