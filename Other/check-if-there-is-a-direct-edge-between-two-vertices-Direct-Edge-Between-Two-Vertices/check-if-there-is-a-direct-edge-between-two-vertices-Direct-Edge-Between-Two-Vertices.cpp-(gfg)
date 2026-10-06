@@ -1,0 +1,22 @@
+class Solution {
+  public:
+    bool checkEdge(vector<vector<int>>& adj, int u, int v)
+    {
+        queue<int>q;
+        q.push(u);
+        int neighbour = q.front();
+         q.pop();
+        for(int i=0;i<adj[neighbour].size();i++)
+        {
+            q.push(adj[neighbour][i]);
+        }
+
+        while(!q.empty())
+        {
+            if(q.front()==v) return 1;
+            q.pop();
+
+        }
+        return 0;
+    }
+};
