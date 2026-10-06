@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 107**
+**Total Solved: 108**
 
 | Topic | Solved |
 | --- | ---: |
@@ -183,7 +183,7 @@
 | Prefix-Sum | 1 |
 | Brute-Force | 1 |
 | Implementation | 4 |
-| Other | 14 |
+| Other | 15 |
 
 ## Array
 
@@ -514,6 +514,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22hackerrank%22%2C%22problemIdentifier%22%3A%228662%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22check-if-there-is-a-direct-edge-between-two-vertices%22%2C%22topic%22%3A%22Other%22%7D -->
+- [Direct Edge Between Two Vertices](https://www.geeksforgeeks.org/problems/check-if-there-is-a-direct-edge-between-two-vertices/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22START01%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Number Mirror](https://www.codechef.com/problems/START01)
