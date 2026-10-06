@@ -1,0 +1,19 @@
+class Solution(object):
+    def minAddToMakeValid(self, s):
+
+        cnt = 0       # unmatched '('
+        ans = 0       # brackets we need to add
+
+        for i in s:
+
+            if i == '(':
+                cnt += 1
+
+            elif cnt > 0:       # current ')' can match '('
+                cnt -= 1
+
+            else:               # ')' has nothing to match
+                ans += 1
+
+        # Remaining '(' need matching ')'
+        return ans + cnt
