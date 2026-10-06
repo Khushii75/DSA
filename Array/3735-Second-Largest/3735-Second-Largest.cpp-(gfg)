@@ -1,17 +1,13 @@
-class Solution {
-  public:
-    int getSecondLargest(vector<int> &arr) {
-        int first = -1, second = -1;
-
-        for(int x : arr){
-            if(x > first){
-                second = first;
-                first = x;
-            } else if(x > second && x != first){
-                second = x;
-            }
-        }
-
-        return second;
-    }
-};
+class Solution:
+    def getSecondLargest(self, arr):
+        # code here
+        l=arr[0]
+        sl=-1
+        for i in arr:
+            if i>l:
+                sl=l
+                l=i
+            elif i>sl and i!=l:
+                sl=i
+        return sl
+             
