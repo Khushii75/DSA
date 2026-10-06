@@ -162,11 +162,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 108**
+**Total Solved: 109**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 25 |
+| Array | 26 |
 | String | 8 |
 | Linked-List | 3 |
 | Hash-Table | 1 |
@@ -261,6 +261,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223903%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224231%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Sort 0s, 1s and 2s](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
 
 ## String
 
