@@ -162,11 +162,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 110**
+**Total Solved: 111**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 26 |
+| Array | 27 |
 | String | 9 |
 | Linked-List | 3 |
 | Hash-Table | 1 |
@@ -264,6 +264,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224231%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Sort 0s, 1s and 2s](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220977%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
 ## String
 
