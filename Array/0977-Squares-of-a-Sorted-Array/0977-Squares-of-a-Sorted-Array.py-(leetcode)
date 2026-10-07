@@ -1,0 +1,21 @@
+class Solution(object):
+    def sortedSquares(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+    
+        i=0
+        j=len(nums)-1
+        ans=[]
+        while i<=j:
+            if nums[i]*nums[i] > nums[j]*nums[j]:
+                ans.append(nums[i]*nums[i])
+                i+=1
+            else:
+                ans.append(nums[j]*nums[j])
+                j-=1
+        return ans[::-1]
+
+
+        
