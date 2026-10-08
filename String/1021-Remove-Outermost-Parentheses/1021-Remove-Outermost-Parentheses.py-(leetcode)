@@ -1,0 +1,25 @@
+class Solution(object):
+    def removeOuterParentheses(self, s):
+
+        b = 0
+        r = ""
+
+        for i in s:
+
+            if i == '(':
+
+                b += 1
+
+                # Not the outermost '('
+                if b > 1:
+                    r += '('
+
+            else:
+
+                b -= 1
+
+                # Not the outermost ')'
+                if b > 0:
+                    r += ')'
+
+        return r
