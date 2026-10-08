@@ -162,12 +162,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 111**
+**Total Solved: 112**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 27 |
-| String | 9 |
+| String | 10 |
 | Linked-List | 3 |
 | Hash-Table | 1 |
 | Heap | 2 |
@@ -287,6 +287,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220010%22%2C%22topic%22%3A%22String%22%7D -->
 - [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221021%22%2C%22topic%22%3A%22String%22%7D -->
+- [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%222390%22%2C%22topic%22%3A%22String%22%7D -->
 - [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
