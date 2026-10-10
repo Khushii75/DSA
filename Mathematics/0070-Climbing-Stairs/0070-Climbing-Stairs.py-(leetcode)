@@ -1,0 +1,17 @@
+class Solution(object):
+    def climbStairs(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
+        p1=1
+        p2=1
+        ways=0
+        for i in range(n):
+            ways=p1+p2
+            p1=p2
+            p2=ways
+        return p1
+
+        
+        
