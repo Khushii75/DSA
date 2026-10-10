@@ -162,11 +162,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 112**
+**Total Solved: 113**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 27 |
+| Array | 28 |
 | String | 10 |
 | Linked-List | 3 |
 | Hash-Table | 1 |
@@ -216,6 +216,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220014%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220053%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221848%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/)
