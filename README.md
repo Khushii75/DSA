@@ -162,7 +162,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 113**
+**Total Solved: 114**
 
 | Topic | Solved |
 | --- | ---: |
@@ -176,7 +176,7 @@
 | Dynamic-Programming | 1 |
 | Greedy | 1 |
 | Mathematics | 29 |
-| Two-Pointers | 1 |
+| Two-Pointers | 2 |
 | Binary-Search | 4 |
 | Recursion | 2 |
 | Divide-and-Conquer | 3 |
@@ -455,6 +455,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220844%22%2C%22topic%22%3A%22Two-Pointers%22%7D -->
 - [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220680%22%2C%22topic%22%3A%22Two-Pointers%22%7D -->
+- [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 
 ## Binary-Search
 
