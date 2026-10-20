@@ -162,11 +162,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 114**
+**Total Solved: 115**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 28 |
+| Array | 29 |
 | String | 10 |
 | Linked-List | 3 |
 | Hash-Table | 1 |
@@ -231,6 +231,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22peak-element%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Peak element](https://www.geeksforgeeks.org/problems/peak-element/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220852%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220027%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Remove Element](https://leetcode.com/problems/remove-element/)
