@@ -162,12 +162,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 117**
+**Total Solved: 118**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 29 |
-| String | 12 |
+| String | 13 |
 | Linked-List | 3 |
 | Hash-Table | 1 |
 | Heap | 2 |
@@ -275,6 +275,9 @@
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
 ## String
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220583%22%2C%22topic%22%3A%22String%22%7D -->
+- [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220022%22%2C%22topic%22%3A%22String%22%7D -->
 - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
