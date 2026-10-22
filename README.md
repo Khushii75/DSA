@@ -162,12 +162,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 116**
+**Total Solved: 117**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 29 |
-| String | 11 |
+| String | 12 |
 | Linked-List | 3 |
 | Hash-Table | 1 |
 | Heap | 2 |
@@ -281,6 +281,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221143%22%2C%22topic%22%3A%22String%22%7D -->
 - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220516%22%2C%22topic%22%3A%22String%22%7D -->
+- [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220032%22%2C%22topic%22%3A%22String%22%7D -->
 - [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
