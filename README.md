@@ -162,12 +162,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 118**
+**Total Solved: 119**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 29 |
-| String | 13 |
+| String | 14 |
 | Linked-List | 3 |
 | Hash-Table | 1 |
 | Heap | 2 |
@@ -296,6 +296,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220921%22%2C%22topic%22%3A%22String%22%7D -->
 - [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221312%22%2C%22topic%22%3A%22String%22%7D -->
+- [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222751%22%2C%22topic%22%3A%22String%22%7D -->
 - [Palindrome Digit Sum](https://www.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not2751/1)
