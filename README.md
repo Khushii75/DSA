@@ -162,11 +162,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 121**
+**Total Solved: 122**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 29 |
+| Array | 30 |
 | String | 14 |
 | Linked-List | 3 |
 | Hash-Table | 1 |
@@ -198,6 +198,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221011%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223619%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221394%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)
