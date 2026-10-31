@@ -1,0 +1,74 @@
+
+class Solution(object):
+    def uniquePaths(self, grid):
+        m = len(grid)
+        n = len(grid[0])
+        MOD = 10**9 + 7
+
+        # Stores final destination as a flattened index
+        from_right = [[-1] * n for _ in range(m)]
+        from_down = [[-1] * n for _ in range(m)]
+
+        # Precompute mirror reflections (reverse order)
+        for i in range(m - 1, -1, -1):
+            for j in range(n - 1, -1, -1):
+
+                if grid[i][j] == 0:
+                    continue
+
+                # Entering mirror while moving right:
+                # Move down
+                if i + 1 < m:
+                    if grid[i + 1][j] == 0:
+                        from_right[i][j] = (i + 1) * n + j
+                    else:
+                        from_right[i][j] = from_down[i + 1][j]
+
+                # Entering mirror while moving down:
+                # Move right
+                if j + 1 < n:
+                    if grid[i][j + 1] == 0:
+                        from_down[i][j] = i * n + j + 1
+                    else:
+                        from_down[i][j] = from_right[i][j + 1]
+
+        # Normal DP
+        dp = [[0] * n for _ in range(m)]
+        dp[0][0] = 1
+
+        for i in range(m):
+            for j in range(n):
+
+                if grid[i][j] == 1:
+                    continue
+
+                ways = dp[i][j]
+
+                if ways == 0:
+                    continue
+
+                # Try moving right
+                if j + 1 < n:
+                    if grid[i][j + 1] == 0:
+                        dest = (i, j + 1)
+                    else:
+                        val = from_right[i][j + 1]
+                        dest = divmod(val, n) if val != -1 else None
+
+                    if dest is not None:
+                        x, y = dest
+                        dp[x][y] = (dp[x][y] + ways) % MOD
+
+                # Try moving down
+                if i + 1 < m:
+                    if grid[i + 1][j] == 0:
+                        dest = (i + 1, j)
+                    else:
+                        val = from_down[i + 1][j]
+                        dest = divmod(val, n) if val != -1 else None
+
+                    if dest is not None:
+                        x, y = dest
+                        dp[x][y] = (dp[x][y] + ways) % MOD
+
+        return dp[m - 1][n - 1]
