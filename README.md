@@ -162,11 +162,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 122**
+**Total Solved: 123**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 30 |
+| Array | 31 |
 | String | 14 |
 | Linked-List | 3 |
 | Hash-Table | 1 |
@@ -276,6 +276,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220977%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223665%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/)
 
 ## String
 
