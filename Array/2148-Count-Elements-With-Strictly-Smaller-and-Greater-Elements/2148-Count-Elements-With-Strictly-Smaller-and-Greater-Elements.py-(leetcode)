@@ -1,0 +1,11 @@
+class Solution:
+    def countElements(self, nums: list[int]) -> int:
+        cnt=0
+        a=max(nums)
+        b=min(nums)
+        for i in nums:
+            if i>b and i<a:
+                cnt+=1
+        return cnt
+
+        
